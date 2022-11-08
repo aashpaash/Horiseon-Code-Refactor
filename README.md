@@ -9,5 +9,6 @@ A codebase that follows accessibility standards and is optimized for search engi
 
 ## Result
 
-## Sources
 
+## Sources
+Starter code and assets: https://github.com/coding-boot-camp/urban-octo-telegram 
