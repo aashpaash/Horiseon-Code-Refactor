@@ -9,7 +9,7 @@ A codebase that follows accessibility standards and is optimized for search engi
 
 ## Result
 Git URL: https://github.com/aashpaash/Horiseon-Code-Refactor/blob/main/README.md
-Site URL: 
+Site URL: https://aashpaash.github.io/Horiseon-Code-Refactor/
 
 ## Sources
 Starter code and assets: https://github.com/coding-boot-camp/urban-octo-telegram 
